@@ -46,7 +46,7 @@ const SideNav = () => {
               subtopics: [
                 {
                   title: "What is programming ?",
-                  path: "/programming-intro"
+                  path: "https://v0-vamsi-training-comps-vpwbjw.vercel.app/"    
                 }
               ]
             },
@@ -55,23 +55,23 @@ const SideNav = () => {
               subtopics: [
                 {
                   title: "Understanding Variables",
-                  path: "/understanding-variables"
+                  path: "https://v0-robot-programming-lqt1sbcf28a-lqvx9l.vercel.app/"
                 },
                 {
                   title: "Reusing of Variables",
-                  path: "/reusing-variables"
+                  path: "https://v0-robot-programming-lqt1sbcf28a-lqvx9l.vercel.app/"
                 },
                 {
                   title: "Changing the Value of Variable",
-                  path: "/changing-variables"
+                  path: "https://v0-robot-programming-lqt1sbcf28a-lqvx9l.vercel.app/"
                 },
                 {
                   title: "Quick Recap of Variables",
-                  path: "/variables-recap"
+                  path: "https://v0-robot-programming-lqt1sbcf28a-lqvx9l.vercel.app/"
                 },
                 {
                   title: "Quiz on Variables",
-                  path: "/variables-quiz"
+                  path: "https://v0-robot-programming-lqt1sbcf28a-lqvx9l.vercel.app/"
                 }
               ]
             },
@@ -80,19 +80,19 @@ const SideNav = () => {
               subtopics: [
                 {
                   title: "Introduction to DataTypes",
-                  path: "/intro-datatypes"
+                  path: "https://v0-vamsi-training-comps-nyocco.vercel.app/"
                 },
                 {
                   title: "Understanding the Number Data Type",
-                  path: "/number-datatype"
+                  path: "https://v0-vamsi-training-comps-rnuxfx.vercel.app/"
                 },
                 {
                   title: "The Story of a String",
-                  path: "/string-datatype"
+                  path: "https://v0-vamsi-training-comps-kf4jfi.vercel.app/"
                 },
                 {
                   title: "Understanding Boolean Data Type",
-                  path: "/boolean-datatype"
+                  path: "https://v0-vamsi-training-comps-ck5bbm.vercel.app/"
                 },
               ]
             },
@@ -101,19 +101,19 @@ const SideNav = () => {
               subtopics: [
                 {
                   title: "Introduction to Symbols",
-                  path: "/intro-symbols"
+                  path: "https://5k7dpnsviirhloeh.vercel.app/"
                 },
                 {
                   title: "Calculations using Operators",
-                  path: "/calculations-operators"
+                  path: "https://v0-vamsi-training-comps-wh4xgo.vercel.app/"
                 },
                 {
                   title: "Comparisions Using Operators",
-                  path: "/comparisons-operators"
+                  path: "https://v0-vamsi-training-comps-aqzn7j.vercel.app/"
                 },
                 {
                   title: "Multiple Comparisons",
-                  path: "/multiple-comparisons"
+                  path: "https://v0-vamsi-training-comps-l8jkwr.vercel.app/"
                 },
               ]
             }
@@ -127,15 +127,15 @@ const SideNav = () => {
               subtopics: [
                 {
                   title: "Introduction to Functions",
-                  path: "/intro-functions"
+                  path: "https://v0-vamsi-training-comps-sj7rme.vercel.app/"
                 },
                 {
                   title: "Function Reusability",
-                  path: "/function-reusability"
+                  path: "https://v0-vamsi-training-comps-fkxgqj.vercel.app/"
                 },
                 {
                   title: "Flexible Functions",
-                  path: "/flexible-functions"
+                  path: "https://v0-vamsi-training-comps-z58bp5.vercel.app/"
                 },
                 
               ]
@@ -145,19 +145,19 @@ const SideNav = () => {
               subtopics: [
                 {
                   title: "Understand the Control Flow",
-                  path: "/control-flow"
+                  path: "https://v0-vamsi-training-comps-owfw3e.vercel.app/"
                 },
                 {
                   title: "Understanding Conditionals",
-                  path: "/understanding-conditionals"
+                  path: "https://v0-vamsi-training-comps-xiseoc.vercel.app/"
                 },
                 {
                   title: "Understanding Loops",
-                  path: "/understanding-loops"
+                  path: "https://p0ha8tua1xsb03m3.vercel.app/"
                 },
                 {
                   title: "Handling Exceptions",
-                  path: "/handling-exceptions"
+                  path: "https://v0-vamsi-training-comps-mcalia.vercel.app/"
                 },
                
               ]
@@ -172,19 +172,19 @@ const SideNav = () => {
               subtopics: [
                 {
                   title: "Introduction to List",
-                  path: "/intro-list"
+                  path: "https://v4bnsdqbp01scqlq.vercel.app/"
                 },
                 {
                   title: "Accessing Items to List",
-                  path: "/accessing-list-items"
+                  path: "https://qotioao3xiwldd5f.vercel.app/"
                 },
                 {
                   title: "Adding Items to List",
-                  path: "/adding-list-items"
+                  path: "https://2mdi33nid4owkafg.vercel.app/"
                 },
                 {
                   title: "Removing items from List",
-                  path: "/removing-list-items"
+                  path: "https://v0-vamsi-training-comps-ykazaw.vercel.app/"
                 },
                 
               ]
@@ -194,19 +194,19 @@ const SideNav = () => {
               subtopics: [
                 {
                   title: "Understanding Loops in Programming",
-                  path: "/intro-loops"
+                  path: "https://v0-vamsi-training-comps-nu7of0.vercel.app/"
                 },
                 {
                   title: "Understanding For Loop",
-                  path: "/for-loop"
+                  path: "https://v0-vamsi-training-comps-bnwd5o.vercel.app/"
                 },
                 {
                   title: "Understanding While Loop",
-                  path: "/while-loop"
+                  path: "https://p0ha8tua1xsb03m3.vercel.app/"
                 },
                 {
                   title: "Understanding ForEach Loop",
-                  path: "/foreach-loop"
+                  path: "https://abgodkue6fl29cu9.vercel.app/"
                 },
                
               ]
